@@ -1,0 +1,10 @@
+hand1 A
+hand2 B
+hand3 C
+hand4 D
+hand5 E
+hand6 F
+hand7 G
+hand8 Q
+hand9 T
+hand10 W
